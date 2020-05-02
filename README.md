@@ -1,9 +1,15 @@
 trufla-task
+
 mario mamdouh
+
 ------------------------------------
+
 database directory: ./data
+
 admin-username: TruflaUser
+
 admin-password: TruflaPass
+
 ------------------------------------
 
 main task finished in: 6hrs
@@ -20,6 +26,12 @@ clone docker image repo
 
 https://hub.docker.com/repository/docker/mariomamdouh/trufla/general
 
+------------------------------------
+
 finished all bonus items
+
+------------------------------------
+
+------------------------------------
 
 thanks for giving me this chance
