@@ -1,4 +1,4 @@
-Tufla wordpress task
+# Tufla wordpress task
 
 by Mario Mamdouh
 
@@ -6,13 +6,13 @@ by Mario Mamdouh
     Bonus tasks finished in: 4 hrs
     Finished all bonus items
 
-Database and admin account
+# Database and admin account
 
     $database directory = ‘./data’
     $admin-username = ‘TruflaUser’
     $admin-password = ‘TruflaPass’
 
-Installation
+# Installation
 
     Clone this repo
     Import database from database directory
@@ -35,4 +35,4 @@ Or using docker 2nd way:
     config the database and wp-config.php
     run using docker image
 
-Thanks for giving me this chance
+**Thanks for giving me this chance**
