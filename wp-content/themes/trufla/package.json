@@ -1,0 +1,16 @@
+{
+  "name": "trufla",
+  "version": "1.0.0",
+  "description": "trufla task",
+  "main": "../../../index.php",
+  "scripts": {
+    "css": "node-sass --output-style compressed --include-path scss assets/scss/style.scss assets/css/214.css",
+    "watch": "nodemon -e scss -x \"npm run css\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "nodemon": "^1.11.0"
+  }
+}
