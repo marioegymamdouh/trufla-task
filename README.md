@@ -2,7 +2,9 @@
 by Mario Mamdouh
 
 > Main task finished in: 6 hrs
+
 > Bonus tasks finished in: 4 hrs
+
 > Finished all bonus items
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
