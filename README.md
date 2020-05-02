@@ -32,6 +32,4 @@ finished all bonus items
 
 ------------------------------------
 
-------------------------------------
-
 thanks for giving me this chance
