@@ -1,4 +1,4 @@
-# Tufla wordpress task
+# Trufla wordpress task
 
 by Mario Mamdouh
 
